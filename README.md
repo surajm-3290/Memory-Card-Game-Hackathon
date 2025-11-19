@@ -55,7 +55,7 @@ This helps children:
 ## 🏗️ How to Run
 
 1. Clone the repository:  
-git clone https://github.com/YourUsername/YourRepoName.git
+git clone [https://github.com/surajm-3290/Memory-Card-Game-Hackathon/tree/main]
 Copy code
 2. Open `index.html` in your browser.  
 3. Start playing the game!
