@@ -60,6 +60,11 @@ Copy code
 2. Open `index.html` in your browser.  
 3. Start playing the game!
 
+OR
+
+1. Download HackPage=Copy.zip 
+2. Open `index.html` in your browser.  
+3. Start playing the game!
 ---
 
 ## 👥 Team Members
